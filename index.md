@@ -41,9 +41,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: Host Quizzes within seconds<br>
-  content: Host <strong>Single-correct, Multi-correct, Alphanumeric in-class quizzes
-    </strong>with a few easy taps. These can either be scheduled , or go live instantly.
+  headline: "&lt;h2&gt;Host Quizzes within seconds&lt;/h2&gt;<br>"
+  content: "&lt;h3&gt;Host <strong>Single-correct, Multi-correct, Alphanumeric in-class
+    quizzes </strong>with a few easy taps. These can either be scheduled , or go live
+    instantly.&lt;/h3&gt;"
   media:
     image: "/uploads/2021/07/19/4.png"
     alt_text: quiz
