@@ -67,13 +67,12 @@ page_sections:
   block: one-column-1
   slug: "#vision"
   headline: VISION
-  content: "<strong>Active learning is any learning exercise in which the student
-    engages or interacts with the learning process instead of passively taking in
-    the information. Studies have shown that active learning during the lecture helps
-    students absorb the lecture material better. The challenge is how to do the Active
-    Learning exercises to strengthen student's learning during the lecture, without
-    losing control. ALT (Active Learning and Teaching) is a mobile App that allows
-    active-learning quizzes during the lectures, as well as getting quick feedback
-    from students.</strong>"
+  content: Active learning is any learning exercise in which the student engages or
+    interacts with the learning process instead of passively taking in the information.
+    Studies have shown that active learning during the lecture helps students absorb
+    the lecture material better. The challenge is how to do the Active Learning exercises
+    to strengthen student's learning during the lecture, without losing control. ALT
+    (Active Learning and Teaching) is a mobile App that allows active-learning quizzes
+    during the lectures, as well as getting quick feedback from students.
 
 ---
