@@ -30,10 +30,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<h2><strong>Quick Announcements</strong></h2>"
+  headline: "<strong>Quick Announcements<br></strong>Post short announcements <br>Instantly
+    updated across every students phone <br>Notifications sent to all enrolled students,
+    so they never miss an update"
   slug: ''
-  content: "<h3>Post short announcements shared with notifications to all enrolled
-    students</h3>"
+  content: ''
   media:
     image: "/uploads/2021/07/19/2.png"
     alt_text: dashboard
