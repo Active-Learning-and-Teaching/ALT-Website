@@ -58,11 +58,15 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  headline: Built With Privacy in Mind
+  content: A special feature of the app is that it keeps <strong>minimal information</strong>
+    about the courses and performance in quizzes.<br>For each quiz or feedback, it
+    sends the detailed record (of responses of each student) on email (to the address
+    specified by the instructor) and <strong>keeps no records.</strong><br>At the
+    end of the course, the student/instructor can<strong> delete their account</strong>,
+    and no record of the quizzes/feedback is kept in the server (other than statistical
+    data for research on Active Learning). This <strong>enhances privacy</strong>
+    (as no records are kept, even a hacker cannot get them!)
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
