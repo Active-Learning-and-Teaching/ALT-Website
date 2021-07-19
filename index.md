@@ -30,7 +30,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Post Quick Announcements<br><br>- </strong>Post short announcements
     <br><br>- Instantly updated across every students phone <br><br>- Notifications
     sent to all enrolled students, so they never miss an update"
