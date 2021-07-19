@@ -18,7 +18,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: An open-source mobile application to facilitate active learning and teaching.
+  headline: "<strong>An open-source mobile application to facilitate active learning
+    and teaching.</strong>"
   content: ''
   cta:
     enabled: true
