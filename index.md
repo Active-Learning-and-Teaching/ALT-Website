@@ -35,7 +35,7 @@ page_sections:
   content: "&lt;h3&gt;Post short announcements shared with notifications to all enrolled
     students&lt;/h3&gt;"
   media:
-    image: "/uploads/2021/07/19/2.png"
+    image: "/uploads/2021/07/19/dashboard.png"
     alt_text: dashboard
 - template: content-feature
   block: feature-1
