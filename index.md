@@ -11,17 +11,6 @@ page_sections:
     link_text: Vision
   - link: "#team"
     link_text: Team
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2021/07/19/img_ef44fc963901-1-2.jpeg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "/#about"
-    link_text: About
-  cta:
-    url: ''
-    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
