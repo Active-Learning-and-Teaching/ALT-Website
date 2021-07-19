@@ -30,19 +30,19 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Post Quick Announcements<br><br>- </strong>Post short announcements
     <br><br>- Instantly updated across every students phone <br><br>- Notifications
     sent to all enrolled students, so they never miss an update"
-  slug: ''
+  slug: features
   content: ''
   media:
     image: "/uploads/2021/07/19/2.png"
     alt_text: dashboard
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  slug: swap
+  media_alignment: Right
+  slug: ''
   headline: "<strong>Host Quizzes within seconds<br><br></strong>Host<strong> </strong>in-class
     quizzes<strong> </strong>with a few easy taps. These can either be scheduled ,
     or go live instantly.<br><br>Choose from three types of quizzes : <br><br>- Single-correct
@@ -53,8 +53,8 @@ page_sections:
     alt_text: quiz
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  slug: customize
+  media_alignment: Left
+  slug: ''
   headline: "<strong>Take Instant Feedback to check understanding<br><br></strong>Set
     scheduled feedbacks for the class , and choose from<br><br>- Color-scale feedback<br><br>-
     Likert-scale feedback"
