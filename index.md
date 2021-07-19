@@ -56,9 +56,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: "<strong>Take Instant Feedback to check understanding<br><br></strong>Set
-    scheduled feedbacks for the class , and choose from<br><br>- Color-scale feedback<br><br>-
-    Likert-scale feedback"
+  headline: "<strong>Take Instant Feedback<br><br></strong>Schedule student feedback
+    on the course activities. The feedback can be on a Color-Scale or a Likert Scale.
+    The student responses are visualised while maintaining anonymity."
   content: ''
   media:
     image: "/uploads/2021/07/19/3.png"
