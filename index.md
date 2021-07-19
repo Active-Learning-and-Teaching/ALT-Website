@@ -65,31 +65,14 @@ page_sections:
     alt_text: feedback
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: Built With Privacy in Mind
-  content: A special feature of the app is that it keeps <strong>minimal information</strong>
-    about the courses and performance in quizzes.<br>For each quiz or feedback, it
-    sends the detailed record (of responses of each student) on email (to the address
-    specified by the instructor) and <strong>keeps no records.</strong><br>At the
-    end of the course, the student/instructor can<strong> delete their account</strong>,
-    and no record of the quizzes/feedback is kept in the server (other than statistical
-    data for research on Active Learning). This <strong>enhances privacy</strong>
-    (as no records are kept, even a hacker cannot get them!)
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
+  slug: "#vision"
+  headline: VISION
+  content: Active learning is any learning exercise in which the student engages or
+    interacts with the learning process instead of passively taking in the information.
+    Studies have shown that active learning during the lecture helps students absorb
+    the lecture material better. The challenge is how to do the Active Learning exercises
+    to strengthen student's learning during the lecture, without losing control. ALT
+    (Active Learning and Teaching) is a mobile App that allows active-learning quizzes
+    during the lectures, as well as getting quick feedback from students.
 
 ---
