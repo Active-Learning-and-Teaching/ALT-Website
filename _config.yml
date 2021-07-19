@@ -3,7 +3,7 @@ title: ALT
 author: ALT Team
 email: ''
 description: ''
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
