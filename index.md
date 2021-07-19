@@ -34,8 +34,8 @@ page_sections:
   slug: ''
   content: Post short announcements shared with notifications to all enrolled students
   media:
-    image: "/uploads/2021/07/19/screenshot_2021-07-19-20-01-32-739_com-tls.jpg"
-    alt_text: ''
+    image: "/uploads/2021/07/19/2.png"
+    alt_text: dashboard
 - template: content-feature
   block: feature-1
   media_alignment: Left
