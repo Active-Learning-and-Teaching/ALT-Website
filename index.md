@@ -87,5 +87,8 @@ page_sections:
     student/instructor can delete their account, and no record of the quizzes/feedback
     is kept on the server (other than statistical data for research on Active Learning).
     This enhances privacy (as no records are kept, even a hacker cannot get them!)</p>"
+- template: simple-footer
+  block: footer-1
+  content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
 
 ---
