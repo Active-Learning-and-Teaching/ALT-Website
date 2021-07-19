@@ -31,9 +31,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Post Quick Announcements<br><br>- </strong>Post short announcements
-    <br><br>- Instantly updated across every students phone <br><br>- Notifications
-    sent to all enrolled students, so they never miss an update"
+  headline: "<strong>Create and Manage Courses<br></strong>Instructors can create
+    courses and let their students enroll with a unique code.<br>The dashboard shows
+    the ongoing courses of the instructor. Instructors can post announcements and
+    manage students in their courses. A robust notification system ensures that the
+    users never miss an update."
   slug: features
   content: ''
   media:
