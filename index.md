@@ -41,12 +41,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: Take <strong>Instant Feedback</strong> to check students understanding
+  content: Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2021/07/19/img_68a8858f8e5f-1.jpeg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
