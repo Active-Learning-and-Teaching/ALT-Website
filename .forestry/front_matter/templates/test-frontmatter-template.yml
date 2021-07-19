@@ -44,5 +44,3 @@ fields:
     - type: text
       name: button_text
       label: button_text
-pages:
-- this-is-title.md
