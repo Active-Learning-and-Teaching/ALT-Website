@@ -5,7 +5,7 @@ date: 2021-07-19 19:30:00 +0530
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/07/19/img_ef44fc963901-1-2.jpeg"
+  logo: "/uploads/2021/07/19/1024.png"
   navigation:
   - link: "/"
     link_text: Home
