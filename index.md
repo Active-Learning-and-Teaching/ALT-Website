@@ -24,7 +24,7 @@ page_sections:
     url: https://github.com/Active-Learning-and-Teaching/ALT
     button_text: 'GitHub '
   image:
-    image: "/uploads/2021/07/19/screenshot-2021-07-19-at-7-36-45-pm.png"
+    image: "/uploads/2021/07/19/man-holding-iphone-x.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
