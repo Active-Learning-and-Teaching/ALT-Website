@@ -30,9 +30,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Quick Announcements<br><br>- </strong>Post short announcements
-    <br>- Instantly updated across every students phone <br>- Notifications sent to
-    all enrolled students, so they never miss an update"
+  headline: "<strong>Post Quick Announcements<br><br>- </strong>Post short announcements
+    <br><br>- Instantly updated across every students phone <br><br>- Notifications
+    sent to all enrolled students, so they never miss an update"
   slug: ''
   content: ''
   media:
@@ -55,7 +55,7 @@ page_sections:
   media_alignment: Right
   slug: customize
   headline: "<strong>Take Instant Feedback to check understanding<br><br></strong>Set
-    scheduled feedbacks for the class , and choose from<br>- Color-scale feedback<br>-
+    scheduled feedbacks for the class , and choose from<br><br>- Color-scale feedback<br><br>-
     Likert-scale feedback"
   content: ''
   media:
