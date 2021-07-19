@@ -30,32 +30,32 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "&lt;h2&gt;Post <strong>Quick Announcements</strong>&lt;/h2&gt;"
+  headline: "<h2><strong>Quick Announcements</strong></h2>"
   slug: ''
-  content: "&lt;h3&gt;Post short announcements shared with notifications to all enrolled
-    students&lt;/h3&gt;"
+  content: "<h3>Post short announcements shared with notifications to all enrolled
+    students</h3>"
   media:
-    image: "/uploads/2021/07/19/dashboard.png"
+    image: "/uploads/2021/07/19/2.png"
     alt_text: dashboard
 - template: content-feature
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "&lt;h2&gt;Host Quizzes within seconds&lt;/h2&gt;<br>"
-  content: "&lt;h3&gt;Host <strong>Single-correct, Multi-correct, Alphanumeric in-class
+  headline: "<h2>Host Quizzes within seconds</h2>"
+  content: "<h3>Host <strong>Single-correct, Multi-correct, Alphanumeric in-class
     quizzes </strong>with a few easy taps. These can either be scheduled , or go live
-    instantly.&lt;/h3&gt;"
+    instantly.</h3>"
   media:
-    image: "/uploads/2021/07/19/quiz.png"
+    image: "/uploads/2021/07/19/4.png"
     alt_text: quiz
 - template: content-feature
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: "&lt;h2&gt;Take <strong>Instant Feedback</strong> to check students understanding&lt;/h2&gt;"
-  content: "&lt;h3&gt;Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale&lt;/h3&gt;"
+  headline: "<h2>Take <strong>Instant Feedback</strong> to check students understanding</h2>"
+  content: "<h3>Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale</h3>"
   media:
-    image: "/uploads/2021/07/19/feedback.png"
+    image: "/uploads/2021/07/19/3.png"
     alt_text: feedback
 - template: 1-column-text
   block: one-column-1
