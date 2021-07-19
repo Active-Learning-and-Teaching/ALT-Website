@@ -74,5 +74,18 @@ page_sections:
     to strengthen student's learning during the lecture, without losing control. ALT
     (Active Learning and Teaching) is a mobile App that allows active-learning quizzes
     during the lectures, as well as getting quick feedback from students.
+- template: detail-content
+  block: text-1
+  headline: Built With Privacy in Mind
+  content: "<p>A special feature of the app is that it keeps minimal information about
+    the courses and performance in quizzes. The quizzes themselves (or the statements
+    on which feedback is taken) are not given in the app but are given in the class
+    (on ppt, whiteboard, paper, etc). The app allows the students to give responses,
+    compiles them, and shows the summary on the faculty's app. For each quiz/feedback,
+    it sends the detailed record (of responses of each student) on email (to the address
+    specified by the instructor) and keeps no records. At the end of the course, the
+    student/instructor can delete their account, and no record of the quizzes/feedback
+    is kept on the server (other than statistical data for research on Active Learning).
+    This enhances privacy (as no records are kept, even a hacker cannot get them!)</p>"
 
 ---
