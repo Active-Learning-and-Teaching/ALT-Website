@@ -17,13 +17,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>ALT</strong><br>An open-source mobile application to facilitate
-    active learning and teaching."
-  content: Active learning is any learning exercise in which the student engages or
-    interacts with the learning process instead of passively taking in the information.
+  headline: An open-source mobile application to facilitate active learning and teaching.
+  content: "<em>Active learning is any learning exercise in which the student engages
+    or interacts with the learning process instead of passively taking in the information.
     Studies have shown that active learning during the lecture helps students absorb
     the lecture material better. The challenge is how to do the Active Learning exercises
-    to strengthen student's learning during the lecture, without losing control.
+    to strengthen student's learning during the lecture, without losing control.</em>"
   cta:
     enabled: true
     url: https://github.com/Active-Learning-and-Teaching/ALT
