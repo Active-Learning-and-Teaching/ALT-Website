@@ -46,7 +46,7 @@ page_sections:
     quizzes </strong>with a few easy taps. These can either be scheduled , or go live
     instantly.&lt;/h3&gt;"
   media:
-    image: "/uploads/2021/07/19/4.png"
+    image: "/uploads/2021/07/19/quiz.png"
     alt_text: quiz
 - template: content-feature
   block: feature-1
