@@ -31,7 +31,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Create and Manage Courses<br></strong>Instructors can create
+  headline: "<strong>Create and Manage Courses<br><br></strong>Instructors can create
     courses and let their students enroll with a unique code.<br>The dashboard shows
     the ongoing courses of the instructor. Instructors can post announcements and
     manage students in their courses. A robust notification system ensures that the
