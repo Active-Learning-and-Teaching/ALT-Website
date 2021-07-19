@@ -31,12 +31,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: Host Quizzes within seconds<br>
+  content: Host <strong>Single-correct, Multi-correct, Alphanumeric in-class quizzes
+    </strong>with a few easy taps. These can either be scheduled , or go live instantly.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2021/07/19/img_f6d2c700e91e-1.jpeg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
