@@ -14,5 +14,3 @@ fields:
       format: html
   label: Headline
   name: heading
-pages:
-- x.md
