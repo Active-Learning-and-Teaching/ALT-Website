@@ -42,10 +42,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Host Quizzes within seconds<br><br></strong>Host<strong> in-class
-    quizzes </strong>with a few easy taps. These can either be scheduled , or go live
-    instantly.<br>Choose from three types of quizzes : <br>- <strong>Single-correct
-    <br>- Multi-correct<br>- Alphanumeric</strong>"
+  headline: "<strong>Host Quizzes within seconds<br><br></strong>Host<strong> </strong>in-class
+    quizzes<strong> </strong>with a few easy taps. These can either be scheduled ,
+    or go live instantly.<br><br>Choose from three types of quizzes : <br><br>- Single-correct
+    <br><br>- Multi-correct<br><br>- Alphanumeric"
   content: ''
   media:
     image: "/uploads/2021/07/19/4.png"
