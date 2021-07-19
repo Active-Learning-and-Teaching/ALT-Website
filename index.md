@@ -45,7 +45,7 @@ page_sections:
     </strong>with a few easy taps. These can either be scheduled , or go live instantly.
   media:
     image: "/uploads/2021/07/19/4.png"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: quiz
 - template: content-feature
   block: feature-1
   media_alignment: Right
