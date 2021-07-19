@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home
-date: 2021-07-19 19:30:00 +0530
+date: 2021-07-19T19:30:00.000+05:30
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -24,7 +24,7 @@ page_sections:
     url: https://github.com/Active-Learning-and-Teaching/ALT
     button_text: 'GitHub '
   image:
-    image: "/uploads/2021/07/19/home.png"
+    image: "/uploads/2021/07/19/1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
