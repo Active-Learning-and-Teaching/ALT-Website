@@ -26,7 +26,7 @@ page_sections:
     button_text: 'GitHub '
   image:
     image: "/uploads/2021/07/19/1.png"
-    alt_text: Product Shot
+    alt_text: ALT Home
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
