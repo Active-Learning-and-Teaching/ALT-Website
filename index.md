@@ -17,13 +17,17 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>ALT</strong><br>An open-source mobile application to facilitate
+    active learning and teaching."
+  content: Active learning is any learning exercise in which the student engages or
+    interacts with the learning process instead of passively taking in the information.
+    Studies have shown that active learning during the lecture helps students absorb
+    the lecture material better. The challenge is how to do the Active Learning exercises
+    to strengthen student's learning during the lecture, without losing control.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/Active-Learning-and-Teaching/ALT
+    button_text: 'GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
