@@ -53,8 +53,8 @@ page_sections:
   headline: Take <strong>Instant Feedback</strong> to check students understanding
   content: Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale
   media:
-    image: "/uploads/2021/07/19/img_68a8858f8e5f-1.jpeg"
-    alt_text: Customize Blocks
+    image: "/uploads/2021/07/19/3.png"
+    alt_text: feedback
 - template: 1-column-text
   block: one-column-1
   slug: responsive
