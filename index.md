@@ -13,7 +13,7 @@ page_sections:
     link_text: Vision
   - link: "#team"
     link_text: Team
-  - link: "#documentation"
+  - link: https://github.com/Active-Learning-and-Teaching/ALT/blob/master/README.md
     link_text: Documentation
 - template: hero-banner-w-image
   block: hero-2
