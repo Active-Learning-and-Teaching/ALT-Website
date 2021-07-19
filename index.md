@@ -7,14 +7,14 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/07/19/active-learning-teaching-app.png"
   navigation:
-  - link: "#documentation"
-    link_text: Documentation
   - link: "#features"
     link_text: Features
   - link: "#vision"
     link_text: Vision
   - link: "#team"
     link_text: Team
+  - link: "#documentation"
+    link_text: Documentation
 - template: hero-banner-w-image
   block: hero-2
   slug: features
