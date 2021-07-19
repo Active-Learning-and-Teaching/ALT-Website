@@ -7,8 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/07/19/img_ef44fc963901-1-2.jpeg"
   navigation:
-  - link: About
-    link_text: "#about"
+  - link: "#vision"
+    link_text: Vision
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/07/19/img_ef44fc963901-1-2.jpeg"
