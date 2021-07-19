@@ -52,8 +52,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: Take <strong>Instant Feedback</strong> to check students understanding
-  content: Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale
+  headline: "&lt;h2&gt;Take <strong>Instant Feedback</strong> to check students understanding&lt;/h2&gt;"
+  content: "&lt;h3&gt;Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale&lt;/h3&gt;"
   media:
     image: "/uploads/2021/07/19/3.png"
     alt_text: feedback
