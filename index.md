@@ -11,7 +11,7 @@ page_sections:
     link_text: Features
   - link: "#vision"
     link_text: Vision
-  - link: https://github.com/orgs/Active-Learning-and-Teaching/people
+  - link: "#team"
     link_text: Team
   - link: https://github.com/Active-Learning-and-Teaching/ALT/blob/master/README.md
     link_text: Documentation
