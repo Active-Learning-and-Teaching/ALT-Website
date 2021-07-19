@@ -30,9 +30,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Quick Announcements<br></strong>Post short announcements <br>Instantly
-    updated across every students phone <br>Notifications sent to all enrolled students,
-    so they never miss an update"
+  headline: "<strong>Quick Announcements<br><br>- </strong>Post short announcements
+    <br>- Instantly updated across every students phone <br>- Notifications sent to
+    all enrolled students, so they never miss an update"
   slug: ''
   content: ''
   media:
