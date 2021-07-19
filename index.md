@@ -42,10 +42,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<h2>Host Quizzes within seconds</h2>"
-  content: "<h3>Host <strong>Single-correct, Multi-correct, Alphanumeric in-class
+  headline: "<strong>Host Quizzes within seconds<br><br></strong>Host<strong> in-class
     quizzes </strong>with a few easy taps. These can either be scheduled , or go live
-    instantly.</h3>"
+    instantly.<br>Choose from three types of quizzes : <br>- <strong>Single-correct
+    <br>- Multi-correct<br>- Alphanumeric</strong>"
+  content: ''
   media:
     image: "/uploads/2021/07/19/4.png"
     alt_text: quiz
