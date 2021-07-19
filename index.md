@@ -5,7 +5,7 @@ date: 2021-07-19T19:30:00.000+05:30
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/07/19/1024.png"
+  logo: "/uploads/2021/07/19/active-learning-teaching-app.png"
   navigation:
   - link: "/"
     link_text: Home
