@@ -55,7 +55,7 @@ page_sections:
   headline: "&lt;h2&gt;Take <strong>Instant Feedback</strong> to check students understanding&lt;/h2&gt;"
   content: "&lt;h3&gt;Set scheduled feedbacks for the class , and choose from Color-scale/Likert-scale&lt;/h3&gt;"
   media:
-    image: "/uploads/2021/07/19/3.png"
+    image: "/uploads/2021/07/19/feedback.png"
     alt_text: feedback
 - template: 1-column-text
   block: one-column-1
