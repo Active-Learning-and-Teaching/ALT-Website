@@ -46,6 +46,15 @@ page_sections:
   media:
     image: "/uploads/2021/07/19/img_68a8858f8e5f-1.jpeg"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Post <strong>Quick Announcements</strong>
+  slug: ''
+  content: Post short announcements shared with notifications to all enrolled students
+  media:
+    image: "/uploads/2021/07/19/screenshot_2021-07-19-20-01-32-739_com-tls.jpg"
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
