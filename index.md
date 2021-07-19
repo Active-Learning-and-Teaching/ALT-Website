@@ -31,13 +31,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Create and Manage Courses<br><br></strong><em>Instructors can
-    create courses and let their students enroll with a unique code.<br>The dashboard
-    shows the ongoing courses of the instructor. Instructors can post announcements
-    and manage students in their courses. A robust notification system ensures that
-    the users never miss an update.</em>"
+  headline: "<strong>Create and Manage Courses</strong>"
   slug: features
-  content: ''
+  content: Instructors can create courses and let their students enroll with a unique
+    code.<br>The dashboard shows the ongoing courses of the instructor. Instructors
+    can post announcements and manage students in their courses. A robust notification
+    system ensures that the users never miss an update.
   media:
     image: "/uploads/2021/07/19/2.png"
     alt_text: dashboard
