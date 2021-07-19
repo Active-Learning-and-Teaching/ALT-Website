@@ -45,10 +45,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: ''
-  headline: "<strong>Host Quizzes within seconds<br><br></strong>Host<strong> </strong>in-class
-    quizzes<strong> </strong>with a few easy taps. These can either be scheduled ,
-    or go live instantly.<br><br>Choose from three types of quizzes : <br><br>- Single-correct
-    <br><br>- Multi-correct<br><br>- Alphanumeric"
+  headline: "<strong>Host Quizzes<br><br></strong>Host in-class quizzes instantly
+    to test the understanding of students. The quiz can be Single-Correct, Multi-Correct
+    or even Alphanumeric. The student responses are graded and visualised."
   content: ''
   media:
     image: "/uploads/2021/07/19/4.png"
