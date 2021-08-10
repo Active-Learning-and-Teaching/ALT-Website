@@ -31,11 +31,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Create &amp; Manage Courses<br><br></strong>Instructors can create
-    courses and let their students enroll with a unique code.<br>The dashboard shows
-    the ongoing courses of the instructor. Instructors can post announcements and
-    manage students in their courses. A robust notification system ensures that the
-    users never miss an update."
+  headline: "<strong>Create &amp; Manage Courses<br><br>- I</strong>nstructors can
+    create courses by just entering the course name - and will get a unique code for
+    it. <br><br>- They can let their students enrol with this unique code (a student
+    just has to enter the code). So, it can be used in any teacher-class setting (in
+    college, schools, continuing education, workshop/tutorial) and does not require
+    any support from any IT infrastructure.<br><br>- The dashboard shows the ongoing
+    courses of the instructor. Instructors can post announcements and manage students
+    in their courses. Instructors can specify email addresses to receive responses
+    to the in-lecture quizzes/ feedback questions."
   slug: features
   content: ''
   media:
