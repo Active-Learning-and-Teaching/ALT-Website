@@ -83,7 +83,7 @@ page_sections:
   slug: "#vision"
   headline: VISION
   content: "- Active learning is any learning exercise in which the student engages
-    or interacts with the learning process instead of passively taking in the information.<br>-
+    or interacts with the learning process instead of passively taking in the information.<br><br>-
     Studies have shown that active learning exercise during the lecture helps students
     absorb the lecture material much better. Similarly, in-class feedback on any issue
     (e.g. have you understood topic taught) is an important input to help improve
@@ -92,24 +92,20 @@ page_sections:
     (Active Learning and Teaching) is a mobile App that allows active-learning quizzes
     and feedback during the lectures - the quizzes and feedback questions are given
     to students as part of the lecture <em>(so it does not break the faculty member's
-    flow and does not require entering them on mobile), while providing instant summaries
-    on the phone.</em>"
+    flow and does not require entering them on mobile), </em>while providing instant
+    summaries on the phone."
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
-  content: "<ul><li><p>Active learning is any learning exercise in which the student
-    engages or interacts with the learning process instead of passively taking in
-    the information.</p></li></ul><ul><li><p>Studies have shown that active learning
-    exercise during the lecture helps students absorb the lecture material much better.
-    Similarly, in-class feedback on any issue (e.g. have you understood topic taught)
-    is an important input to help improve learning during lectures. </p><p></p></li><li><p>The
-    challenge is how to do the Active Learning exercises or take feedback without
-    breaking the flow of lecture or losing control. </p><p></p><p>ALT (Active Learning
-    and Teaching) is a mobile App that allows active-learning quizzes and feedback
-    during the lectures - the quizzes and feedback questions are given to students
-    as part of the lecture <em>(so it does not break the faculty member's flow and
-    does not require entering them on mobile), while providing instant summaries on
-    the phone.</em></p></li></ul>"
+  content: "<p>A special feature of the app is that the system keeps <em>minimal information
+    about the people and quizzes/feedback at the backend.</em></p><p>- The quiz/feedback
+    questions are not even entered in the app. The answers to quizzes (or feedback
+    questions) are not saved in the backend - they are processed for summarization,
+    and then the detailed record is mailed to the faculty as csv (only the result
+    of the last quiz is kept due to technical design).</p><p>- At the end of the course,
+    the student/instructor can delete their account, and their records in the backend
+    will also be deleted.</p><p><em>This enhances privacy and security (as no records
+    are kept, even a hacker cannot get them!)</em></p>"
 - template: simple-footer
   block: footer-1
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
