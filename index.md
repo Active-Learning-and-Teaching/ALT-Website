@@ -61,12 +61,14 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: "<strong>Take Instant Feedback<br><br></strong>Schedule student feedback
-    on the course activities. The feedback can be on a Color-Scale or a Likert Scale.
-    The student responses are visualised while maintaining anonymity."
-  content: ''
+  headline: "<strong>Take Instant Feedback</strong>"
+  content: '- Schedule student feedback during the lecture. The feedback question
+    is presented in class (on ppt, said out, ...), <span class="il">and</span> students
+    can give their anonymous feedback on the app. <br><br>- The feedback can be on
+    a Color-Scale or a Likert Scale. The student responses summary is shown, <span
+    class="il">and</span> also emailed.'
   media:
-    image: "/uploads/2021/07/19/3.png"
+    image: "/uploads/2021/08/11/feedback-resized.png"
     alt_text: feedback
 - template: 1-column-text
   block: one-column-1
