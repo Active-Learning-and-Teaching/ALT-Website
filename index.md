@@ -43,7 +43,7 @@ page_sections:
   slug: features
   content: ''
   media:
-    image: "/uploads/2021/07/19/2.png"
+    image: "/uploads/2021/07/19/1024.png"
     alt_text: dashboard
 - template: content-feature
   block: feature-1
