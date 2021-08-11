@@ -25,9 +25,9 @@ page_sections:
     url: https://github.com/Active-Learning-and-Teaching/ALT
     button_text: 'GitHub '
   image:
-    image: "/uploads/2021/08/11/login-resized.png"
+    image: ''
     alt_text: ALT Home
-  background_image: ''
+  background_image: "/uploads/2021/08/11/login-resized.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
