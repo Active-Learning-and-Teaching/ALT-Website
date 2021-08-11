@@ -50,12 +50,20 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: ''
-  headline: "<strong>Host Quizzes<br><br></strong>Host in-class quizzes instantly
-    to test the understanding of students. The quiz can be Single-Correct, Multi-Correct
-    or even Alphanumeric. The student responses are graded and visualised."
-  content: ''
+  headline: "<strong>Host Quizzes</strong>"
+  content: '- Short in-class quizzes is the key for Active Learning in lectures. An
+    instructor can host in-class quizzes instantly to test the understanding of students.
+    The quiz itself will be shown to students in class (on ppt, whiteboard, ...),
+    so it does not stop the flow of presentation, <span class="il">and</span> does
+    not require entering the quiz on the phone. <br>- The quiz is started on mobile
+    <span class="il">and</span> the replies are given by students in the app. Quizzes
+    can be Mulitple-Choice Single-Correct, Multiple-choice Multi-Correct or Alphanumeric.
+    <br>- Summary of the quiz responses is presented to the faculty at the end of
+    the quiz on the phone. The student responses to quizzes are auto-graded (if answers
+    provided by the instructor) <span class="il">and</span> sent as csv to the email
+    specified by the faculty.'
   media:
-    image: "/uploads/2021/07/19/4.png"
+    image: "/uploads/2021/08/11/quiz-resized.png"
     alt_text: quiz
 - template: content-feature
   block: feature-1
