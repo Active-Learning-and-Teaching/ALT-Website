@@ -25,9 +25,9 @@ page_sections:
     url: https://github.com/Active-Learning-and-Teaching/ALT
     button_text: 'GitHub '
   image:
-    image: "/uploads/2021/07/19/1.png"
+    image: "/uploads/2021/08/11/login-resized.png"
     alt_text: ALT Home
-  background_image: "/uploads/2021/08/11/login-resized.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,26 +82,34 @@ page_sections:
   block: one-column-1
   slug: "#vision"
   headline: VISION
-  content: Active learning is any learning exercise in which the student engages or
-    interacts with the learning process instead of passively taking in the information.
-    Studies have shown that active learning during the lecture helps students absorb
-    the lecture material better. The challenge is how to do the Active Learning exercises
-    to strengthen student's learning during the lecture, without losing control. ALT
+  content: "- Active learning is any learning exercise in which the student engages
+    or interacts with the learning process instead of passively taking in the information.<br>-
+    Studies have shown that active learning exercise during the lecture helps students
+    absorb the lecture material much better. Similarly, in-class feedback on any issue
+    (e.g. have you understood topic taught) is an important input to help improve
+    learning during lectures.<br><br>- The challenge is how to do the Active Learning
+    exercises or take feedback without breaking the flow of lecture or losing control.<br><br>ALT
     (Active Learning and Teaching) is a mobile App that allows active-learning quizzes
-    during the lectures, as well as getting quick feedback from students.
+    and feedback during the lectures - the quizzes and feedback questions are given
+    to students as part of the lecture <em>(so it does not break the faculty member's
+    flow and does not require entering them on mobile), while providing instant summaries
+    on the phone.</em>"
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
-  content: "<p>A special feature of the app is that it keeps minimal information about
-    the courses and performance in quizzes. The quizzes themselves (or the statements
-    on which feedback is taken) are not given in the app but are given in the class
-    (on ppt, whiteboard, paper, etc). The app allows the students to give responses,
-    compiles them, and shows the summary on the faculty's app. For each quiz/feedback,
-    it sends the detailed record (of responses of each student) on email (to the address
-    specified by the instructor) and keeps no records. At the end of the course, the
-    student/instructor can delete their account, and no record of the quizzes/feedback
-    is kept on the server (other than statistical data for research on Active Learning).
-    This enhances privacy (as no records are kept, even a hacker cannot get them!)</p>"
+  content: "<ul><li><p>Active learning is any learning exercise in which the student
+    engages or interacts with the learning process instead of passively taking in
+    the information.</p></li></ul><ul><li><p>Studies have shown that active learning
+    exercise during the lecture helps students absorb the lecture material much better.
+    Similarly, in-class feedback on any issue (e.g. have you understood topic taught)
+    is an important input to help improve learning during lectures. </p><p></p></li><li><p>The
+    challenge is how to do the Active Learning exercises or take feedback without
+    breaking the flow of lecture or losing control. </p><p></p><p>ALT (Active Learning
+    and Teaching) is a mobile App that allows active-learning quizzes and feedback
+    during the lectures - the quizzes and feedback questions are given to students
+    as part of the lecture <em>(so it does not break the faculty member's flow and
+    does not require entering them on mobile), while providing instant summaries on
+    the phone.</em></p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
