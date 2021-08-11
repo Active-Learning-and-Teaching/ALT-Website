@@ -5,7 +5,7 @@ date: 2021-07-19T19:30:00.000+05:30
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/07/19/active-learning-teaching-app.png"
+  logo: "/uploads/2021/08/11/logo-svg.svg"
   navigation:
   - link: "#features"
     link_text: Features
