@@ -27,7 +27,7 @@ page_sections:
   image:
     image: "/uploads/2021/07/19/1.png"
     alt_text: ALT Home
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/08/11/login-resized.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
