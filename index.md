@@ -112,8 +112,10 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: ''
-  col_3: ''
+  col_2: <a href="https://github.com/Active-Learning-and-Teaching/ALT/releases" title="Click
+    here to get the App!">https://github.com/Active-Learning-and-Teaching/ALT/releases</a>
+  col_3: Reach out to us on mail! <br><a href="mail:to:vishwesh18119@iiitd.ac.in"
+    title="Mail">vishwesh18119@iiitd.ac.in</a><br><br>
   col_4: ''
 
 ---
