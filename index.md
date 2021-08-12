@@ -23,7 +23,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/Active-Learning-and-Teaching/ALT
-    button_text: 'GitHub '
+    button_text: Try it out here
   image:
     image: ''
     alt_text: ALT Home
@@ -112,9 +112,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/08/11/logo-svg.svg"
-  col_2: '&lt;a href ="<a href="https://github.com/Active-Learning-and-Teaching/ALT/releases"
-    title="https://github.com/Active-Learning-and-Teaching/ALT/releases">https://github.com/Active-Learning-and-Teaching/ALT/releases</a>"
-    &gt;Get our app for iOS and Android here!&lt;/a&gt;'
+  col_2: ''
   col_3: Reach out to us on mail! <br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">vishwesh18119@iiitd.ac.in</a><br><br>
   col_4: ''
