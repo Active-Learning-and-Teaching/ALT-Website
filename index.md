@@ -78,6 +78,35 @@ page_sections:
   media:
     image: "/uploads/2021/08/11/feedback-resized.png"
     alt_text: feedback
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: VISION
+    content: "- Active learning is any learning exercise in which the student engages
+      or interacts with the learning process instead of passively taking in the information.<br><br>-
+      Studies have shown that active learning exercise during the lecture helps students
+      absorb the lecture material much better. Similarly, in-class feedback on any
+      issue (e.g. have you understood topic taught) is an important input to help
+      improve learning during lectures.<br><br>- The challenge is how to do the Active
+      Learning exercises or take feedback without breaking the flow of lecture or
+      losing control.<br><br>ALT (Active Learning and Teaching) is a mobile App that
+      allows active-learning quizzes and feedback during the lectures - the quizzes
+      and feedback questions are given to students as part of the lecture <em>(so
+      it does not break the faculty member's flow and does not require entering them
+      on mobile), </em>while providing instant summaries on the phone."
+    slug: ''
+  col_2:
+    headline: Built With Privacy in Mind
+    content: A special feature of the app is that the system keeps <em>minimal information
+      about the people and quizzes/feedback at the backend.<br><br></em>- The quiz/feedback
+      questions are not even entered in the app. The answers to quizzes (or feedback
+      questions) are not saved in the backend - they are processed for summarization,
+      and then the detailed record is mailed to the faculty as csv (only the result
+      of the last quiz is kept due to technical design).<br><br>- At the end of the
+      course, the student/instructor can delete their account, and their records in
+      the backend will also be deleted.<em>This enhances privacy and security (as
+      no records are kept, even a hacker cannot get them!)</em>
+    slug: ''
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
