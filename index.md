@@ -23,7 +23,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/Active-Learning-and-Teaching/ALT
-    button_text: Try it out here
+    button_text: Try it out here !
   image:
     image: ''
     alt_text: ALT Home
