@@ -1,0 +1,36 @@
+---
+label: test-frontmatter-template
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group_list
+  name: page_sections
+  label: page_sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: block
+    label: block
+  - type: file
+    name: logo
+    label: logo
+  - type: field_group_list
+    name: navigation
+    label: navigation
+    fields:
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: link_text
+      label: link_text
