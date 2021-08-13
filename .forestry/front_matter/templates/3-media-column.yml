@@ -12,9 +12,13 @@ fields:
       maxSize: 64
     label: Left Image
   - name: left_description
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Left Description
   label: Left Column
 - name: right_column
@@ -27,8 +31,12 @@ fields:
       maxSize: 64
     label: Right Image
   - name: right_description
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Right Description
   label: Right Column
