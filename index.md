@@ -28,26 +28,6 @@ page_sections:
     image: ''
     alt_text: ALT Home
   background_image: "/uploads/2021/08/11/login-resized.png"
-- template: 3-media-column
-  column:
-    left_image: "/uploads/2021/08/11/quiz-resized.png"
-    left_description: |-
-      Host Quizzes
-      - Short in-class quizzes is the key for Active Learning in lectures. An instructor can host in-class quizzes instantly to test the understanding of students. The quiz itself will be shown to students in class (on ppt, whiteboard, ...), so it does not stop the flow of presentation, and does not require entering the quiz on the phone.
-
-      - The quiz is started on mobile and the replies are given by students in the app. Quizzes can be Multiple-Choice Single-Correct, Multiple-choice Multi-Correct or Alphanumeric.
-
-      - Summary of the quiz responses is presented to the faculty at the end of the quiz on the phone. The student responses to quizzes are auto-graded (if answers provided by the instructor) and sent as csv to the email specified by the faculty.
-  right_column:
-    right_image: "/uploads/2021/08/11/feedback-resized.png"
-    right_description: |2-
-
-      Host Quizzes
-      - Short in-class quizzes is the key for Active Learning in lectures. An instructor can host in-class quizzes instantly to test the understanding of students. The quiz itself will be shown to students in class (on ppt, whiteboard, ...), so it does not stop the flow of presentation, and does not require entering the quiz on the phone.
-
-      - The quiz is started on mobile and the replies are given by students in the app. Quizzes can be Multiple-Choice Single-Correct, Multiple-choice Multi-Correct or Alphanumeric.
-
-      - Summary of the quiz responses is presented to the faculty at the end of the quiz on the phone. The student responses to quizzes are auto-graded (if answers provided by the instructor) and sent as csv to the email specified by the faculty.
 - template: content-feature
   block: feature-1
   media_alignment: Left
