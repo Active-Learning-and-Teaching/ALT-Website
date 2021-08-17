@@ -20,8 +20,9 @@ page_sections:
   slug: features
   headline: "<strong>A free Application for Active Learning and Teaching.</strong>"
   content: An open source application to enhance Active Learning in class. Can be
-    used for any setting where a class is there be it university or non university.<br>Available
-    on :<img src="/uploads/2021/08/17/kisspng-android-apple-tablet-computers-smartphone-iphone-ios-android-icon-transparent-amp-png-clipart-fre-5ca1b30c7c1c91-6792261515541010045084.jpg">
+    used for any setting where a class is there be it university or non university.<br><br><img
+    src="/uploads/2021/08/17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d677265793f7374796c653d666c6174266c6f676f3d616e64726f6964266c696e6b3d68747470733a2f2f6769746875622e636f6d2f4163746976652d4c6561726e696e672d616e642d5465616368696e672f.svg">     <img
+    src="/uploads/2021/08/17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d694f532d626c61636b3f7374796c653d666c6174266c6f676f3d6170706c65266c696e6b3d68747470733a2f2f6769746875622e636f6d2f4163746976652d4c6561726e696e672d616e642d5465616368696e672f414c542f72.svg">
   cta:
     enabled: true
     url: https://github.com/Active-Learning-and-Teaching/ALT/releases
