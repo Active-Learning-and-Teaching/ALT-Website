@@ -142,7 +142,7 @@ page_sections:
     summaries on the phone."
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/08/17/alt-video-final.mp4"
+  image: "/uploads/2021/08/17/ezgif-com-gif-maker-2.gif"
   caption: A quick run on setting up the application
   slug: ''
 - template: detail-content
