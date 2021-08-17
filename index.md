@@ -81,9 +81,12 @@ page_sections:
 - template: 3-media-column
   column:
     left_image: "/uploads/2021/08/11/login-resized.png"
-    left_description: 'This is left
+    left_description: |-
+      - Instructors can create courses by just entering the course name - and will get a unique code for it. They can let their students enroll with this unique code (to enroll, a student just has to enter the code).
 
-'
+      - So, it can be used in any teacher-class setting by any teacher (in college, schools, continuing education, workshop/tutorial, ...) and does not require any support from any IT infrastructure.
+
+      - The dashboard shows the ongoing courses of the instructor. Instructors can post announcements and manage students in their courses. Instructors can specify email addresses to receive responses to the in-lecture quizzes/ feedback questions.
   right_column:
     right_image: "/uploads/2021/08/11/dashboard-resized.png"
     right_description: This is Right
