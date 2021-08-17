@@ -45,7 +45,7 @@ page_sections:
     headline: 'Create & Manage Courses '
     slug: ''
   col_2:
-    content: <img src="/uploads/2021/08/11/quiz-resized.png"><br>- Short in-class
+    content: <img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br>- Short in-class
       quizzes is the key for Active Learning in lectures. An instructor can host in-class
       quizzes instantly to test the understanding of students. The quiz itself will
       be shown to students in class (on ppt, whiteboard, ...), so it does not stop
@@ -61,12 +61,14 @@ page_sections:
     slug: ''
   col_3:
     headline: Take Instant Feedback
-    content: <img src="/uploads/2021/08/11/feedback-resized.png"><br>- Schedule student
-      feedback during the lecture. The feedback question is presented in class (on
-      ppt, said out, ...), <span class="il">and</span> students can give their anonymous
-      feedback on the app.<br><br>- The feedback can be on a Color-Scale or a Likert
-      Scale. The student responses summary is shown, <span class="il">and</span> also
-      emailed.
+    content: '<img src="/uploads/2021/08/11/feedback-resized.png"><br><br>- Schedule
+      instant student feedback during the lecture. The feedback question is presented
+      in class (on ppt, said out, ...), <span class="il">and</span> students can give
+      their anonymous feedback on the app. <br><br>- The feedback can be on a Color-Scale
+      or a Likert Scale. The student responses summary is shown, <span class="il">and</span>
+      also emailed to set email ID''s.<br><br>- A small summary of feedback is shown
+      post feedback . This can be used : to to improve the learning environment ,
+      and understand how well is the audience grasping key concepts or not.'
     slug: ''
 - template: content-feature
   block: feature-1
