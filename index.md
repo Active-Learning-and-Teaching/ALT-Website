@@ -124,7 +124,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/08/11/logo-svg.svg"
-  col_2: ''
+  col_2: Open source App
   col_3: Reach out to us on mail! <br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">vishwesh18119@iiitd.ac.in</a><br><br>
   col_4: ''
