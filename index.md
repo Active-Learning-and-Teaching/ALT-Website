@@ -125,6 +125,5 @@ page_sections:
   col_3: Reach out to us on mail! <br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">vishwesh18119@iiitd.ac.in</a><br><br>
   col_4: ''
-published: false
 
 ---
