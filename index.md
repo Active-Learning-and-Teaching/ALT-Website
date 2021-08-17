@@ -28,15 +28,6 @@ page_sections:
     image: ''
     alt_text: ALT Home
   background_image: "/uploads/2021/08/11/login-resized.png"
-- template: 3-media-column
-  column:
-    left_image: "/uploads/2021/08/11/login-resized.png"
-    left_description: 'This is left
-
-'
-  right_column:
-    right_image: "/uploads/2021/08/11/dashboard-resized.png"
-    right_description: This is Right
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -87,6 +78,15 @@ page_sections:
   media:
     image: "/uploads/2021/08/11/feedback-resized.png"
     alt_text: feedback
+- template: 3-media-column
+  column:
+    left_image: "/uploads/2021/08/11/login-resized.png"
+    left_description: 'This is left
+
+'
+  right_column:
+    right_image: "/uploads/2021/08/11/dashboard-resized.png"
+    right_description: This is Right
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
