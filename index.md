@@ -18,12 +18,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: <strong>An Open Source Mobile Application for Active Learning and Teaching.<img
-    src="/uploads/2021/08/17/ios-logo.png"><img src="/uploads/2021/08/17/download.jpeg"></strong>
-  content: ''
+  headline: "<strong>A free Application for Active Learning and Teaching.</strong>"
+  content: An open source application to enhance Active Learning in class. Can be
+    used for any setting where a class is there be it university or non university.<br>Available
+    on :<br><img src="/uploads/2021/08/17/png-transparent-iphone-android-app-store-apple-iphone-electronics-logo-computer-wallpaper.png">
   cta:
     enabled: true
-    url: https://github.com/Active-Learning-and-Teaching/ALT
+    url: https://github.com/Active-Learning-and-Teaching/ALT/releases
     button_text: Try it out here !
   image:
     image: ''
