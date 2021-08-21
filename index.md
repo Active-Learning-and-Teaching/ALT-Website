@@ -143,7 +143,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/17/ezgif-com-gif-maker-2.gif"
-  caption: A quick run on setting up the application
+  caption: ''
   slug: ''
 - template: detail-content
   block: text-1
