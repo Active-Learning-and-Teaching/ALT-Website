@@ -48,18 +48,18 @@ page_sections:
     headline: 'Create & Manage Courses '
     slug: ''
   col_2:
-    content: <img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br><br>- Short
-      in-class quizzes is the key for Active Learning in lectures. An instructor can
+    content: <img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br><br>Short
+      in-class quizzes are the key to Active Learning in lectures. An instructor can
       host in-class quizzes instantly to test the understanding of students. The quiz
-      itself will be shown to students in class (on ppt, whiteboard, ...), so it does
-      not stop the flow of presentation, <span class="il">and</span> does not require
-      entering the quiz on the phone.<br><br>- The quiz is started on mobile <span
-      class="il">and</span> the replies are given by students in the app. Quizzes
-      can be Multiple-Choice Single-Correct, Multiple-choice Multi-Correct or Alphanumeric.<br><br>-
-      Summary of the quiz responses is presented to the faculty at the end of the
+      itself will be shown to students in the class (on ppt, whiteboard, ...), so
+      it does not stop the flow of the presentation, <span class="il">and</span> does
+      not require entering the quiz on the phone.<br><br>The quiz is started on mobile
+      <span class="il">and</span> the replies are given by students in the app. Quizzes
+      can be Multiple-Choice Single-Correct, Multiple-choice Multi-Correct or Alphanumeric.<br><br>A
+      summary of the quiz responses is presented to the faculty at the end of the
       quiz on the phone. The student responses to quizzes are auto-graded (if answers
-      provided by the instructor) <span class="il">and</span> sent as csv to the email
-      specified by the faculty.
+      are provided by the instructor) <span class="il">and</span> sent as CSV to the
+      email specified by the faculty.
     headline: Host Quizzes
     slug: ''
   col_3:
