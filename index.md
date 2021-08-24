@@ -73,6 +73,11 @@ page_sections:
       feedback. This can be used: to improve the learning environment, and understand
       how well is the audience grasping key concepts or not.'
     slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/08/17/ezgif-com-gif-maker-2.gif"
+  caption: ''
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
@@ -89,11 +94,6 @@ page_sections:
     to students as part of the lecture <em>(so it does not break the faculty member's
     flow and does not require entering them on mobile), </em>while providing instant
     summaries on the phone."
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/08/17/ezgif-com-gif-maker-2.gif"
-  caption: ''
-  slug: ''
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
