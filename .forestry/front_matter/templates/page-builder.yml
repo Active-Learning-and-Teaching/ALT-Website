@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
   - 3-media-column
+  - blog-page-404
 pages:
 - index.md
