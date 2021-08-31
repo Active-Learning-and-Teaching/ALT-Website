@@ -75,7 +75,7 @@ page_sections:
     slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/08/17/ezgif-com-gif-maker-2.gif"
+  image: "/uploads/2021/08/31/output-vid.gif"
   caption: ''
   slug: ''
 - template: 1-column-text
