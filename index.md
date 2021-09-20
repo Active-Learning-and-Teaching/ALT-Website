@@ -24,7 +24,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/Active-Learning-and-Teaching/ALT/releases
-    button_text: Try it out here !
+    button_text: Download
   image:
     image: "/uploads/2021/08/11/login-resized.png"
     alt_text: ALT Home
