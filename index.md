@@ -105,10 +105,10 @@ page_sections:
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/08/11/logo-svg.svg"
-  col_2: Open source App
-  col_3: Reach out to us on mail! <br><a href="mail:to:vishwesh18119@iiitd.ac.in"
-    title="Mail">vishwesh18119@iiitd.ac.in</a><br><br>
+  image: ''
+  col_2: "<strong>Release<br></strong><br>Beta Available for iOS and Android"
+  col_3: <strong>Contact Us<br></strong><br><a href="mail:to:vishwesh18119@iiitd.ac.in"
+    title="Mail">alt@iiitd.ac.in</a><br>
   col_4: ''
 
 ---
