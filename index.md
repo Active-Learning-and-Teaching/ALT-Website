@@ -94,15 +94,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
-  content: "<p>A special feature of the app is that the system keeps <em>minimal information
-    about the people and quizzes/feedback at the backend.</em></p><p>- The quiz/feedback
-    questions are not even entered in the app. The answers to quizzes (or feedback
-    questions) are not saved in the backend - they are processed for summarization,
-    and then the detailed record is mailed to the faculty as csv (only the result
-    of the last quiz is kept due to technical design).</p><p>- At the end of the course,
-    the student/instructor can delete their account, and their records in the backend
-    will also be deleted.</p><p><em>This enhances privacy and security (as no records
-    are kept, even a hacker cannot get them!)</em></p>"
+  content: "<p>A special feature of the app is that the system keeps minimal information
+    and thereby promotes data privacy and security.</p><p>The quiz/feedback questions
+    are not entered in the app. The answers to quiz/feedback questions are processed
+    for summarization and mailed to the faculty as CSV. The data of quizzes and feedbacks
+    are removed from the backend after processing. At the end of the course, the student/instructor
+    can delete their account, and their records in the backend will also be deleted.</p>"
 - template: simple-footer
   block: footer-1
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
