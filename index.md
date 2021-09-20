@@ -60,14 +60,15 @@ page_sections:
     slug: ''
   col_3:
     headline: Take Instant Feedback
-    content: '<img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br>Schedule
-      instant student feedback during the lecture. The feedback question is presented
-      in class (on ppt, said out, ...), <span class="il">and</span> students can give
-      their anonymous feedback on the app. <br><br>The feedback can be on a Color-Scale
-      or a Likert Scale. The student responses summary is shown <span class="il">and</span>
-      also emailed to set email ID.<br><br>A small summary of feedback is shown post
-      feedback. This can be used: to improve the learning environment, and understand
-      how well is the audience grasping key concepts or not.'
+    content: <br><img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br>The
+      instructor can schedule instant student feedbacks during the lecture. The feedback
+      question is presented in class as part of the presentation <span class="il">and</span>
+      the students can give their anonymous feedback on the app. The instructor can
+      choose the feedback type as Color-Scale or a Likert Scale and can set the duration
+      of the feedback.<br><br>The anonymous student responses are mailed to the instructor.
+      A small summary of feedback is also shown in the app. This can be used to improve
+      the learning environment, and understand how well is the audience grasping key
+      concepts.
     slug: ''
 - template: full-width-media-element
   block: media-1
