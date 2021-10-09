@@ -32,7 +32,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <br><br><br><img src="/uploads/2021/08/11/dashboard-resized.png"><br><br><strong><span
+    content: <br><img src="/uploads/2021/08/11/dashboard-resized.png"><br><br><strong><span
       class="light"><br></span></strong><br>An Instructor can easily create a course
       by providing the course name. A unique invite code is generated for the course
       that can be shared with the students. The students can join a course using the
