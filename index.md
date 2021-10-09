@@ -65,9 +65,9 @@ page_sections:
       question is presented in class as part of the presentation <span class="il">and</span>
       the students can give their anonymous feedback on the app. The instructor can
       choose the feedback type as Color-Scale or a Likert Scale and can set the duration
-      of the feedback.<br><br>The anonymous student responses are mailed to the instructor.
+      of the feedback. The anonymous student responses are mailed to the instructor.
       A small summary of feedback is also shown in the app. This can be used to improve
-      the learning environment, and understand how well is the audience grasping key
+      the learning environment and understand how well is the audience grasping key
       concepts.
     slug: ''
 - template: full-width-media-element
