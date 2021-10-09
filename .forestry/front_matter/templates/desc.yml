@@ -11,3 +11,11 @@ fields:
     schema:
       format: markdown
   label: Body
+- name: other
+  type: blocks
+  label: Other
+  template_types:
+  - text-column
+  config:
+    min: 
+    max: 
