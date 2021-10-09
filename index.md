@@ -47,13 +47,13 @@ page_sections:
   col_2:
     content: <br><img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br><br>Short
       in-class quizzes are the key to Active Learning in lectures. An instructor can
-      host in-class quizzes instantly to test the understanding of students. <br><br>The
-      quiz questions will be shown to students in the class as part of the presentation
+      host in-class quizzes instantly to test the understanding of students. The quiz
+      questions will be shown to students in the class as part of the presentation
       so that the instructor does not have to enter the quiz questions manually on
       the phone. The instructor can choose the type of the quiz as Multiple-Choice
       Single-Correct, Multiple-choice Multi-Correct or Alphanumeric and set the duration
-      for it.<br><br>A summary of the quiz responses is presented to the faculty and
-      the students at the end of the quiz on the phone. The student responses to quizzes
+      for it. A summary of the quiz responses is presented to the faculty and the
+      students at the end of the quiz on the phone. The student responses to quizzes
       are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
       sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
