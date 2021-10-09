@@ -28,7 +28,7 @@ page_sections:
   image:
     image: "/uploads/2021/08/11/login-resized.png"
     alt_text: ALT Home
-  background_image: "/uploads/2021/10/09/untitled-design-2.png"
+  background_image: "/uploads/2021/10/09/untitled-design-3.png"
 - template: 3-column-text
   block: three-column-1
   col_1:
