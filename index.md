@@ -101,19 +101,6 @@ page_sections:
     are removed from the backend after processing. At the end of the course, the student/instructor
     can delete their account, and their records in the backend will also be deleted.
   slug: ''
-- template: detail-content
-  block: text-1
-  headline: Built With Privacy in Mind
-  content: "<blockquote><pre><code><code>A special feature of the app is that the
-    system keeps minimal information and thereby promotes data privacy and security.
-    The quiz/feedback questions are not entered in the app. The answers to quiz/feedback
-    questions are processed for summarization and mailed to the faculty as CSV. The
-    data of quizzes and feedbacks are removed from the backend after processing. At
-    the end of the course, the student/instructor can delete their account, and their
-    records in the backend will also be deleted.</code></code></pre></blockquote>"
-- template: simple-footer
-  block: footer-1
-  content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
 - template: 4-column-footer
   block: footer-2
   image: ''
@@ -121,13 +108,8 @@ page_sections:
   col_3: <strong>Contact Us<br></strong><br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">alt@iiitd.ac.in</a><br>
   col_4: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/08/17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d694f532d626c61636b3f7374796c653d666c6174266c6f676f3d6170706c65266c696e6b3d68747470733a2f2f6769746875622e636f6d2f4163746976652d4c6561726e696e672d616e642d5465616368696e672f414c542f72.svg"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/08/17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d677265793f7374796c653d666c6174266c6f676f3d616e64726f6964266c696e6b3d68747470733a2f2f6769746875622e636f6d2f4163746976652d4c6561726e696e672d616e642d5465616368696e672f.svg"
-    caption: ''
+- template: simple-footer
+  block: footer-1
+  content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
 
 ---
