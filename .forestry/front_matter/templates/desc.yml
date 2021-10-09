@@ -1,6 +1,7 @@
 ---
 label: desc
 hide_body: false
+display_field: body
 fields:
 - name: body
   type: textarea
