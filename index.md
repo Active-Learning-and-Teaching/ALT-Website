@@ -94,13 +94,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
-  content: "<blockquote><pre><code>A special feature of the app is that the system
-    keeps minimal information and thereby promotes data privacy and security. The
-    quiz/feedback questions are not entered in the app. The answers to quiz/feedback
+  content: "<blockquote><pre><code><code>A special feature of the app is that the
+    system keeps minimal information and thereby promotes data privacy and security.
+    The quiz/feedback questions are not entered in the app. The answers to quiz/feedback
     questions are processed for summarization and mailed to the faculty as CSV. The
     data of quizzes and feedbacks are removed from the backend after processing. At
     the end of the course, the student/instructor can delete their account, and their
-    records in the backend will also be deleted.</code></pre></blockquote>"
+    records in the backend will also be deleted.</code></code></pre></blockquote>"
 - template: simple-footer
   block: footer-1
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
@@ -111,5 +111,13 @@ page_sections:
   col_3: <strong>Contact Us<br></strong><br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">alt@iiitd.ac.in</a><br>
   col_4: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 
 ---
