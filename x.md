@@ -1,6 +1,0 @@
----
-body: ''
-other: []
-published: false
-
----
