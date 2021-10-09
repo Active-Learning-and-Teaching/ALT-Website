@@ -60,7 +60,7 @@ page_sections:
     slug: ''
   col_3:
     headline: Take Instant Feedback
-    content: <br><img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br>The
+    content: <br><img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br><em>The
       instructor can schedule instant student feedbacks during the lecture. The feedback
       question is presented in class as part of the presentation <span class="il">and</span>
       the students can give their anonymous feedback on the app. The instructor can
@@ -68,7 +68,7 @@ page_sections:
       of the feedback. The anonymous student responses are mailed to the instructor.
       A small summary of feedback is also shown in the app. This can be used to improve
       the learning environment and understand how well is the audience grasping key
-      concepts.
+      concepts.</em>
     slug: ''
 - template: full-width-media-element
   block: media-1
