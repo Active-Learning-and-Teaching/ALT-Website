@@ -91,6 +91,16 @@ page_sections:
     of the lecture without breaking the flow of the class. The students can respond
     on the app and the results are summarised by the app for the faculty to understand
     the state of class and engagement.
+- template: 1-column-text
+  block: one-column-1
+  headline: Built with Privacy in Mind
+  content: A special feature of the app is that the system keeps minimal information
+    and thereby promotes data privacy and security. The quiz/feedback questions are
+    not entered in the app. The answers to quiz/feedback questions are processed for
+    summarization and mailed to the faculty as CSV. The data of quizzes and feedbacks
+    are removed from the backend after processing. At the end of the course, the student/instructor
+    can delete their account, and their records in the backend will also be deleted.
+  slug: ''
 - template: detail-content
   block: text-1
   headline: Built With Privacy in Mind
