@@ -52,11 +52,11 @@ page_sections:
       questions will be shown to students in the class as part of the presentation
       so that the instructor does not have to enter the quiz questions manually on
       the phone. The instructor can choose the type of the quiz as Multiple-Choice
-      Single-Correct, Multiple-choice Multi-Correct or Alphanumeric and set the duration
-      for it. A summary of the quiz responses is presented to the faculty and the
-      students at the end of the quiz on the phone. The student responses to quizzes
-      are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
-      sent as CSV to the email specified by the faculty.
+      Single-Correct, Multiple-choice Multi-Correct, Alphanumeric or Numeric and set
+      the duration for it. A summary of the quiz responses is presented to the faculty
+      and the students at the end of the quiz on the phone. The student responses
+      to quizzes are auto-graded (if answers are provided by the instructor) <span
+      class="il">and</span> sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
     slug: ''
   col_3:
