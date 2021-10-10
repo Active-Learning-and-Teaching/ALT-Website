@@ -34,10 +34,10 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: An Instructor can easily create a course by providing the course name
-      and a unique invite code is generated for the course that can be shared with
-      the students. The dashboard shows the ongoing courses of the instructor. The
-      instructor can post announcements <span class="il">and</span> manage students
+    content: <br>An Instructor can easily create a course by providing the course
+      name and a unique invite code is generated for the course that can be shared
+      with the students. The dashboard shows the ongoing courses of the instructor.
+      The instructor can post announcements <span class="il">and</span> manage students
       and can also specify email addresses for receiving responses to the quizzes
       and feedback. The app does not require any IT infrastructure support and thus
       can be used in any teacher-class setting (Schools, Colleges, Workshops).
@@ -45,9 +45,9 @@ page_sections:
     slug: ''
     image: "/uploads/2021/10/10/2.png"
   col_2:
-    content: Short in-class quizzes are the key to Active Learning in lectures. An
-      instructor can host in-class quizzes instantly to test the understanding of
-      students. The quiz questions will be shown to students in the class as part
+    content: <br>Short in-class quizzes are the key to Active Learning in lectures.
+      An instructor can host in-class quizzes instantly to test the understanding
+      of students. The quiz questions will be shown to students in the class as part
       of the presentation so that the instructor does not have to enter the quiz questions
       manually on the phone. The instructor can choose the type of the quiz as Multiple-Choice
       Single-Correct, Multiple-choice Multi-Correct, Alphanumeric or Numeric and set
