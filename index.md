@@ -98,16 +98,9 @@ page_sections:
     for grading. At the end of the course, the student/instructor can delete their
     account along with all the data associated with their account.
   slug: ''
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: "<strong>Release<br></strong><br>Beta Available for iOS and Android"
-  col_3: <strong>Contact Us<br></strong><br><a href="mail:to:vishwesh18119@iiitd.ac.in"
-    title="Mail">alt@iiitd.ac.in</a><br>
-  col_4: ''
-  col_1: ''
 - template: simple-footer
   block: footer-1
-  content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
+  content: '<strong>Contact us at </strong><a href="alt@iiitd.ac.in" title="alt@iiitd.ac.in"><strong><span
+    style="text-decoration: underline;">alt@iiitd.ac.in</span></strong></a>'
 
 ---
