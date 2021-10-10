@@ -54,7 +54,7 @@ page_sections:
       are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
       sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
-    slug: "#features"
+    slug: ''
   col_3:
     headline: Take Instant Feedback
     content: <br><img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br>The
@@ -66,7 +66,7 @@ page_sections:
       A small summary of feedback is also shown in the app. This can be used to improve
       the learning environment and understand how well is the audience grasping key
       concepts.
-    slug: "#features"
+    slug: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/31/output-vid.gif"
