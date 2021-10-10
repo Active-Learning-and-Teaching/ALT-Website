@@ -60,7 +60,7 @@ page_sections:
     image: "/uploads/2021/10/10/3.png"
   col_3:
     headline: Take Instant Feedback
-    content: The instructor can conduct instant student feedbacks during the lecture.
+    content: <br>The instructor can conduct instant student feedbacks during the lecture.
       The feedback question is presented in class as part of the presentation <span
       class="il">and</span> the students can give their anonymous feedback on the
       app. The instructor can choose the feedback type as Color-Scale or a Likert
