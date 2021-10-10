@@ -23,7 +23,7 @@ page_sections:
     url: https://github.com/Active-Learning-and-Teaching/ALT/releases
     button_text: Download
   image:
-    image: "/uploads/2021/10/10/1.svg"
+    image: "/uploads/2021/10/10/1.png"
     alt_text: ALT Home
   background_image: "/uploads/2021/10/09/untitled-design-3.png"
 - template: full-width-media-element
