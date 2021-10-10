@@ -34,15 +34,14 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <br><img src="/uploads/2021/08/11/dashboard-resized.png"><br><br><strong><span
-      class="light"><br></span></strong><br>An Instructor can easily create a course
-      by providing the course name and a unique invite code is generated for the course
-      that can be shared with the students. The dashboard shows the ongoing courses
-      of the instructor. The instructor can post announcements <span class="il">and</span>
-      manage students and can also specify email addresses for receiving responses
-      to the quizzes and feedback. The app does not require any IT infrastructure
-      support and thus can be used in any teacher-class setting (Schools, Colleges,
-      Workshops).
+    content: <br><img src="/uploads/2021/10/10/1.svg"><br><br><strong><span class="light"><br></span></strong><br>An
+      Instructor can easily create a course by providing the course name and a unique
+      invite code is generated for the course that can be shared with the students.
+      The dashboard shows the ongoing courses of the instructor. The instructor can
+      post announcements <span class="il">and</span> manage students and can also
+      specify email addresses for receiving responses to the quizzes and feedback.
+      The app does not require any IT infrastructure support and thus can be used
+      in any teacher-class setting (Schools, Colleges, Workshops).
     headline: 'Create & Manage Courses '
     slug: ''
   col_2:
