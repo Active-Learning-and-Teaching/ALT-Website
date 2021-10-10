@@ -94,12 +94,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Built with Privacy in Mind
-  content: A special feature of the app is that the system keeps minimal information
-    and thereby promotes data privacy and security. The quiz/feedback questions are
-    not entered in the app. The answers to quiz/feedback questions are processed for
-    summarization and mailed to the faculty as CSV. The data of quizzes and feedbacks
-    are removed from the backend after processing. At the end of the course, the student/instructor
-    can delete their account, and their records in the backend will also be deleted.
+  content: The app aims to promote data privacy and security by keeping minimal information.
+    The instructor does not have to enter the questions of quizzes and feedbacks on
+    the app. The student responses are removed from the backend after being processed
+    for summarization. A copy of the responses is mailed to the instructor as CSV
+    for grading. At the end of the course, the student/instructor can delete their
+    account along with all the data associated with their account.
   slug: ''
 - template: 4-column-footer
   block: footer-2
