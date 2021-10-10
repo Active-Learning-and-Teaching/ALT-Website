@@ -40,7 +40,7 @@ page_sections:
       support and thus can be used in any teacher-class setting (Schools, Colleges,
       Workshops).
     headline: 'Create & Manage Courses '
-    slug: "#features"
+    slug: ''
   col_2:
     content: <br><img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br><br>Short
       in-class quizzes are the key to Active Learning in lectures. An instructor can
