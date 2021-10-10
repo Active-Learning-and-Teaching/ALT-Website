@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/08/11/logo-svg.svg"
+  logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "#features"
     link_text: Features
