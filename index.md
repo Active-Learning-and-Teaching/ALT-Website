@@ -45,20 +45,19 @@ page_sections:
     slug: ''
     image: "/uploads/2021/10/10/2.png"
   col_2:
-    content: <br><img src="/uploads/2021/10/10/3.png"><br><br>Short in-class quizzes
-      are the key to Active Learning in lectures. An instructor can host in-class
-      quizzes instantly to test the understanding of students. The quiz questions
-      will be shown to students in the class as part of the presentation so that the
-      instructor does not have to enter the quiz questions manually on the phone.
-      The instructor can choose the type of the quiz as Multiple-Choice Single-Correct,
-      Multiple-choice Multi-Correct, Alphanumeric or Numeric and set the duration
-      for it. A summary of the quiz responses is presented to the faculty and the
-      students at the end of the quiz on the phone. The student responses to quizzes
-      are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
-      sent as CSV to the email specified by the faculty.
+    content: Short in-class quizzes are the key to Active Learning in lectures. An
+      instructor can host in-class quizzes instantly to test the understanding of
+      students. The quiz questions will be shown to students in the class as part
+      of the presentation so that the instructor does not have to enter the quiz questions
+      manually on the phone. The instructor can choose the type of the quiz as Multiple-Choice
+      Single-Correct, Multiple-choice Multi-Correct, Alphanumeric or Numeric and set
+      the duration for it. A summary of the quiz responses is presented to the faculty
+      and the students at the end of the quiz on the phone. The student responses
+      to quizzes are auto-graded (if answers are provided by the instructor) <span
+      class="il">and</span> sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
     slug: ''
-    image: ''
+    image: "/uploads/2021/10/10/3.png"
   col_3:
     headline: Take Instant Feedback
     content: <br><img src="/uploads/2021/10/10/4.png"><br><br>The instructor can conduct
