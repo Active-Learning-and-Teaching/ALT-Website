@@ -36,11 +36,10 @@ page_sections:
   col_1:
     content: <br><img src="/uploads/2021/08/11/dashboard-resized.png"><br><br><strong><span
       class="light"><br></span></strong><br>An Instructor can easily create a course
-      by providing the course name. A unique invite code is generated for the course
-      that can be shared with the students. The students can join a course using the
-      respective invite code. The dashboard shows the ongoing courses of the instructor.
-      The instructors can post announcements <span class="il">and</span> manage students
-      in their courses. They can also specify email addresses for receiving responses
+      by providing the course name and a unique invite code is generated for the course
+      that can be shared with the students. The dashboard shows the ongoing courses
+      of the instructor. The instructor can post announcements <span class="il">and</span>
+      manage students and can also specify email addresses for receiving responses
       to the quizzes and feedback. The app does not require any IT infrastructure
       support and thus can be used in any teacher-class setting (Schools, Colleges,
       Workshops).
