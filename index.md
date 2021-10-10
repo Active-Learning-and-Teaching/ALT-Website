@@ -26,6 +26,11 @@ page_sections:
     image: "/uploads/2021/08/11/login-resized.png"
     alt_text: ALT Home
   background_image: "/uploads/2021/10/09/untitled-design-3.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/08/31/output-vid.gif"
+  caption: ''
+  slug: "#features"
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -67,11 +72,6 @@ page_sections:
       the learning environment and understand how well is the audience grasping key
       concepts.
     slug: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/08/31/output-vid.gif"
-  caption: ''
-  slug: "#features"
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
