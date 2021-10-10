@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/10/10/active-learning-teaching-2600-x-540-px-2600-x-360-px-300-x-150-px-5000-x-500-px-8000-x-400-px-8000-x-800-px-1000-x-800-px-5000-x-5000-px.svg"
+  logo: "/uploads/2021/10/10/active-learning-teaching-2600-x-540-px-2600-x-360-px-300-x-150-px-5000-x-500-px-8000-x-400-px-8000-x-800-px-1000-x-800-px-5000-x-5000-px-5000-x-500-px.svg"
   navigation:
   - link: "#features"
     link_text: Features
