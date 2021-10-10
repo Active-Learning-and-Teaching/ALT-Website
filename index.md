@@ -71,7 +71,7 @@ page_sections:
   block: media-1
   image: "/uploads/2021/08/31/output-vid.gif"
   caption: ''
-  slug: ''
+  slug: "#features"
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
