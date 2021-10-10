@@ -34,16 +34,16 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <br><img src="/uploads/2021/10/10/2.png"><br><br>An Instructor can easily
-      create a course by providing the course name and a unique invite code is generated
-      for the course that can be shared with the students. The dashboard shows the
-      ongoing courses of the instructor. The instructor can post announcements <span
-      class="il">and</span> manage students and can also specify email addresses for
-      receiving responses to the quizzes and feedback. The app does not require any
-      IT infrastructure support and thus can be used in any teacher-class setting
-      (Schools, Colleges, Workshops).
+    content: An Instructor can easily create a course by providing the course name
+      and a unique invite code is generated for the course that can be shared with
+      the students. The dashboard shows the ongoing courses of the instructor. The
+      instructor can post announcements <span class="il">and</span> manage students
+      and can also specify email addresses for receiving responses to the quizzes
+      and feedback. The app does not require any IT infrastructure support and thus
+      can be used in any teacher-class setting (Schools, Colleges, Workshops).
     headline: 'Create & Manage Courses '
     slug: ''
+    image: "/uploads/2021/10/10/2.png"
   col_2:
     content: <br><img src="/uploads/2021/10/10/3.png"><br><br>Short in-class quizzes
       are the key to Active Learning in lectures. An instructor can host in-class
@@ -58,6 +58,7 @@ page_sections:
       sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
     slug: ''
+    image: ''
   col_3:
     headline: Take Instant Feedback
     content: <br><img src="/uploads/2021/10/10/4.png"><br><br>The instructor can conduct
@@ -69,6 +70,7 @@ page_sections:
       summary of feedback is also shown in the app. This can be used to improve the
       learning environment and understand how well is the audience grasping key concepts.
     slug: ''
+    image: ''
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
