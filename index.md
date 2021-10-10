@@ -81,8 +81,8 @@ page_sections:
     absorb the lecture material much better. Similarly, in-class feedback on any issue
     is an important input to help improve learning during lectures. The challenge
     is how to conduct the Active Learning exercises or take feedback without breaking
-    the flow of lectures or losing control. ALT (Active Learning and Teaching) is
-    a mobile App that allows active learning through instant quizzes and feedback
+    the flow of lectures or losing control. <br><br>ALT (Active Learning and Teaching)
+    is a mobile App that allows active learning through instant quizzes and feedback
     during lectures. The quizzes and feedback questions are given to students as part
     of the lecture without breaking the flow of the class. The students can respond
     on the app and the results are summarised by the app for the faculty to understand
