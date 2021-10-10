@@ -41,7 +41,7 @@ page_sections:
       support and thus can be used in any teacher-class setting (Schools, Colleges,
       Workshops).
     headline: 'Create & Manage Courses '
-    slug: ''
+    slug: "#features"
   col_2:
     content: <br><img src="/uploads/2021/08/11/quiz-resized.png"><br><br><br><br>Short
       in-class quizzes are the key to Active Learning in lectures. An instructor can
@@ -55,7 +55,7 @@ page_sections:
       are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
       sent as CSV to the email specified by the faculty.
     headline: Host Quizzes
-    slug: ''
+    slug: "#features"
   col_3:
     headline: Take Instant Feedback
     content: <br><img src="/uploads/2021/08/11/feedback-resized.png"><br><br><br><br>The
@@ -67,7 +67,7 @@ page_sections:
       A small summary of feedback is also shown in the app. This can be used to improve
       the learning environment and understand how well is the audience grasping key
       concepts.
-    slug: ''
+    slug: "#features"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/31/output-vid.gif"
@@ -106,6 +106,7 @@ page_sections:
   col_3: <strong>Contact Us<br></strong><br><a href="mail:to:vishwesh18119@iiitd.ac.in"
     title="Mail">alt@iiitd.ac.in</a><br>
   col_4: ''
+  col_1: ''
 - template: simple-footer
   block: footer-1
   content: "<strong>Made with ❤︎ using React Native and Firebase</strong>"
