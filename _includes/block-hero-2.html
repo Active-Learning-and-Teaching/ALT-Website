@@ -8,8 +8,8 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         <h1><span class="light">{{ section.headline }}</span></h1>
         <p>{{ section.content }}</p>
         {% if section.cta and section.cta.enabled == true %}
-        <a href = "{{section.cta.url}}"> <img src = "uploads/2021/10/10//download_on_the_app_store_badge_us-uk_rgb_wht_092917.svg"></a>
-        <a href = "{{section.cta.url}}"> <img src = "google-play-badge.png"></a>
+        <a href = "{{section.cta.url}}"> <img src = "uploads/2021/10/10/download_on_the_app_store_badge_us-uk_rgb_wht_092917.svg"></a>
+        <a href = "{{section.cta.url}}"> <img src = "uploads/2021/10/10/google_play-badge-logo-wine.svg"></a>
 <!--         <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a> -->
         {% endif %}
       </div>
