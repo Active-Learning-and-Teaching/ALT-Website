@@ -50,10 +50,10 @@ page_sections:
       of students. The quiz questions will be shown to students in the class as part
       of the presentation so that the instructor does not have to enter the quiz questions
       manually on the phone. The instructor can choose the type of quiz and set the
-      duration for it. A summary of the quiz responses is presented to the instructorand
-      the students at the end of the quiz on the phone. The student responses to quizzes
-      are auto-graded (if answers are provided by the instructor) <span class="il">and</span>
-      sent as CSV to the email specified by the instructor.
+      duration for it. A summary of the quiz responses is presented to the instructor
+      and the students at the end of the quiz on the phone. The student responses
+      are auto-graded <span class="il">and</span> sent as CSV to the email specified
+      by the instructor.
     headline: Host Quizzes
     slug: ''
     image: "/uploads/2021/10/10/3.png"
