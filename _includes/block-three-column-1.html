@@ -3,17 +3,17 @@
     <div class="columns">
       <div class="column">
         <h3>{{ section.col_1.headline }}</h3>
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
+        <img src="{{ section.col_1.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
         <p align = "justify" >{{ section.col_1.content }}</p>
       </div>
       <div class="column">
         <h3>{{ section.col_2.headline }}</h3>
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
+        <img src="{{ section.col_2.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
         <p align = "justify" >{{ section.col_2.content }}</p>
       </div>
       <div class="column">
         <h3>{{ section.col_3.headline }}</h3>
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
+        <img src="{{ section.col_3.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="eager">
         <p align = "justify" >{{ section.col_3.content }}</p>
       </div>            
     </div>
