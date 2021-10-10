@@ -34,7 +34,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <br>An Instructor can easily create a course by providing the course
+    content: <br><br>An Instructor can easily create a course by providing the course
       name and a unique invite code is generated for the course that can be shared
       with the students. The dashboard shows the ongoing courses of the instructor.
       The instructor can post announcements <span class="il">and</span> manage students
@@ -45,7 +45,7 @@ page_sections:
     slug: ''
     image: "/uploads/2021/10/10/2.png"
   col_2:
-    content: <br>Short in-class quizzes are the key to Active Learning in lectures.
+    content: <br><br>Short in-class quizzes are the key to Active Learning in lectures.
       An instructor can host in-class quizzes instantly to test the understanding
       of students. The quiz questions will be shown to students in the class as part
       of the presentation so that the instructor does not have to enter the quiz questions
