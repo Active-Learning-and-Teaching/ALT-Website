@@ -100,7 +100,7 @@ page_sections:
   slug: ''
 - template: simple-footer
   block: footer-1
-  content: '<strong>Contact us at </strong><a href="alt@iiitd.ac.in" title="alt@iiitd.ac.in"><strong><span
+  content: '<strong>Contact Us  :  </strong><a href="alt@iiitd.ac.in" title="alt@iiitd.ac.in"><strong><span
     style="text-decoration: underline;">alt@iiitd.ac.in</span></strong></a>'
 
 ---
