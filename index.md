@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/10/10/active-learning-teaching-2600-x-540-px-2600-x-360-px.svg"
   navigation:
   - link: "#features"
     link_text: Features
