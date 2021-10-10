@@ -98,10 +98,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: '<strong>Contact Us : <span style="text-decoration: underline;">alt@iiitd.ac.in</span></strong>'
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/08/31/output-vid.gif"
-  caption: ''
-  slug: ''
 
 ---
