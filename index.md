@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2021/08/11/login-resized.png"
     alt_text: ALT Home
-  background_image: "/uploads/2021/10/10/untitled-design.png"
+  background_image: "/uploads/2021/10/09/untitled-design-3.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/31/output-vid.gif"
