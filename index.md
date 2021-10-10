@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Open Source Mobile Application for Active Learning &amp; Teaching</strong>"
+  headline: "<strong>Open Source Active Learning &amp; Teaching Application</strong>"
   content: ''
   cta:
     enabled: true
