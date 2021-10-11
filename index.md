@@ -71,6 +71,11 @@ page_sections:
     image: "/uploads/2021/10/10/4.png"
 - template: 1-column-text
   block: one-column-1
+  headline: Tutorial
+  content: ''
+  slug: ''
+- template: 1-column-text
+  block: one-column-1
   slug: "#vision"
   headline: Vision
   content: Active learning is any learning exercise in which the student engages or
