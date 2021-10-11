@@ -1,12 +1,12 @@
 <section id="{{ section.slug | slugify }}" class="block block-media-1">
   <div>
-       {% if section.caption %}
+       <figure><img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy"> </figure>
+<!--        {% if section.caption %}
        <h2 style="text-align: center; color: #666666;"> {{section.caption}} </h2>
        <br></br>
        {% endif %}
-  <!--       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy"> -->
        <div styles = "width: 100%; aspect-ratio: 16/9;">
            <iframe width="1140" height="640" src="https://www.youtube.com/embed/gF-x5rXBQMM?frameborder="0"&controls="0""></iframe>
-       </div>
+       </div> -->
   </div>
 </section>
