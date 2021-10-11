@@ -1,19 +1,19 @@
 <section id="{{ section.slug | slugify }}" class="block block-media-1">
- <style type="video-responsive">
-    .video-responsive{
-      overflow:hidden;
-      padding-bottom:56.25%;
-      position:relative;
-      height:0;
-    }
-    .video-responsive iframe{
-      left:0;
-      top:0;
-      height:100%;
-      width:100%;
-      position:absolute;
-    }
-    </style>
+  <style type="video-responsive">
+        .video-responsive{
+          overflow:hidden;
+          padding-bottom:56.25%;
+          position:relative;
+          height:0;
+        }
+        .video-responsive iframe{
+          left:0;
+          top:0;
+          height:100%;
+          width:100%;
+          position:absolute;
+        }
+     </style>
   <div class="container">
       {% if section.caption %}
     <h2 style="text-align: center; color: #666666;"> {{section.caption}} </h2>
@@ -21,9 +21,7 @@
       {% endif %}
   <!--       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy"> -->
     <div class = "video-responsive">
-      <figure style="margin: 0 auto 0.55em">
         <iframe width="1140" height="640" src="https://www.youtube.com/embed/gF-x5rXBQMM?frameborder="0"&controls="0""></iframe>
-      </figure>
     </dv>
   </div>
 </section>
