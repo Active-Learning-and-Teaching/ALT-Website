@@ -1,11 +1,11 @@
 <section id="{{ section.slug | slugify }}" class="block block-media-1">
   <div class="container">
+      {% if section.caption %}
+    <h2 style="color: #666666;"> {{section.caption}} </h2>
+      {% endif %}
     <figure>
 <!--       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy"> -->
-      <iframe width="1280" height="720" src="https://www.youtube.com/embed/gF-x5rXBQMM?frameborder="0"&controls="0""></iframe>
-      {% if section.caption %}
-      <figcaption>{{ section.caption }}</figcaption>
-      {% endif %}
+      <iframe width="1140" height="640" src="https://www.youtube.com/embed/gF-x5rXBQMM?frameborder="0"&controls="0""></iframe>
     </figure>
   </div>
 </section>
