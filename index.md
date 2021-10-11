@@ -26,11 +26,6 @@ page_sections:
     image: "/uploads/2021/10/10/1.png"
     alt_text: ALT Home
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/10/10/alt.m4v"
-  slug: "#features"
-  caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -69,11 +64,11 @@ page_sections:
       well is the audience grasping key concepts.
     slug: ''
     image: "/uploads/2021/10/10/4.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: Tutorial
-  content: ''
-  slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/10/10/alt.m4v"
+  slug: "#Tutorial"
+  caption: Tutorial
 - template: 1-column-text
   block: one-column-1
   slug: "#vision"
