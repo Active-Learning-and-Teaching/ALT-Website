@@ -37,7 +37,7 @@ page_sections:
       and feedback. The app does not require any IT infrastructure support and thus
       can be used in any teacher-class setting (Schools, Colleges, Workshops).
     headline: 'Create & Manage Courses '
-    slug: ''
+    slug: "#features"
     image: "/uploads/2021/10/10/2.png"
   col_2:
     content: <br><br>Short in-class quizzes are the key to Active Learning in lectures.
