@@ -37,7 +37,7 @@ page_sections:
       and feedback. The app does not require any IT infrastructure support and thus
       can be used in any teacher-class setting (Schools, Colleges, Workshops).
     headline: 'Create & Manage Courses '
-    slug: "#features"
+    slug: ''
     image: "/uploads/2021/10/10/2.png"
   col_2:
     content: <br><br>Short in-class quizzes are the key to Active Learning in lectures.
@@ -67,11 +67,11 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/10/10/alt.m4v"
-  slug: "#Tutorial"
+  slug: ''
   caption: Tutorial
 - template: 1-column-text
   block: one-column-1
-  slug: "#vision"
+  slug: ''
   headline: Vision
   content: Active learning is any learning exercise in which the student engages or
     interacts with the learning process instead of passively taking in the information.
