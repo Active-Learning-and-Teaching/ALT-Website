@@ -62,11 +62,6 @@ page_sections:
       well is the audience grasping key concepts.
     slug: ''
     image: "/uploads/2021/10/10/4.png"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/10/10/alt.m4v"
-  slug: ''
-  caption: Tutorial
 - template: 1-column-text
   block: one-column-1
   slug: ''
