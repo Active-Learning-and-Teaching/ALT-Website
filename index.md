@@ -115,9 +115,11 @@ page_sections:
       timer runs out. Analysis of responses of the class and correct answer is also
       shown to the students after the quiz ends.
   col_3:
-    image: ''
-    headline: ''
+    image: "/uploads/2021/10/12/0-3.png"
+    headline: Submit Feedback
     slug: ''
-    content: ''
+    content: Whenever the instructor starts a new feedback, the students receive push
+      notifications on their device. The students can anonymously submit their feedback
+      and the aggregate analysis of responses is only shown to the instructor.
 
 ---
