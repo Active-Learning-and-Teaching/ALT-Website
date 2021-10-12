@@ -93,7 +93,7 @@ page_sections:
     content: Whenever the instructor starts a new feedback, the students receive push
       notifications on their device. The students can anonymously submit their feedback
       and the aggregate analysis of responses is only shown to the instructor.
-  title: ''
+  title: Student Interface
 - template: 1-column-text
   block: one-column-1
   slug: ''
