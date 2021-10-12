@@ -96,5 +96,25 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: '<strong>Contact Us : <span style="text-decoration: underline;">alt@iiitd.ac.in</span></strong>'
+- template: 3-column-text
+  block: Student Interface
+  col_1:
+    image: "/uploads/2021/10/12/0-2.png"
+    content: The students can easily join courses by entering the code provided by
+      their instructor. The course page provides important announcements made by the
+      instructor. The students also get push notifications so that they don't miss
+      any important updates.
+    headline: Check Announcements
+    slug: ''
+  col_2:
+    image: ''
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    image: ''
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
