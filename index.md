@@ -30,7 +30,7 @@ page_sections:
   image: "/uploads/2021/10/11/alt.m4v"
   caption: ''
 - template: 3-column-text
-  block: three-column-1
+  block: Instructor Interface
   col_1:
     content: <br><br>An Instructor can easily create a course by providing the course
       name and a unique invite code is generated for the course that can be shared
