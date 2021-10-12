@@ -67,6 +67,31 @@ page_sections:
       well is the audience grasping key concepts.
     slug: ''
     image: "/uploads/2021/10/10/4.png"
+- template: 3-column-text
+  block: Student Interface
+  col_1:
+    image: "/uploads/2021/10/12/0-2.png"
+    content: The students can easily join courses by entering the code provided by
+      their instructor. The course page provides important announcements made by the
+      instructor. The students also get push notifications so that they don't miss
+      any important updates.
+    headline: Check Announcements
+    slug: ''
+  col_2:
+    image: "/uploads/2021/10/12/0-1.png"
+    headline: Attempt Quizzes
+    slug: ''
+    content: Whenever the instructor starts a new quiz, the students receive push
+      notifications on their devices. Students can respond to the quiz before the
+      timer runs out. Analysis of responses of the class and correct answer is also
+      shown to the students after the quiz ends.
+  col_3:
+    image: "/uploads/2021/10/12/0-3.png"
+    headline: Submit Feedback
+    slug: ''
+    content: Whenever the instructor starts a new feedback, the students receive push
+      notifications on their device. The students can anonymously submit their feedback
+      and the aggregate analysis of responses is only shown to the instructor.
 - template: 1-column-text
   block: one-column-1
   slug: ''
@@ -96,30 +121,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: '<strong>Contact Us : <span style="text-decoration: underline;">alt@iiitd.ac.in</span></strong>'
-- template: 3-column-text
-  block: Student Interface
-  col_1:
-    image: "/uploads/2021/10/12/0-2.png"
-    content: The students can easily join courses by entering the code provided by
-      their instructor. The course page provides important announcements made by the
-      instructor. The students also get push notifications so that they don't miss
-      any important updates.
-    headline: Check Announcements
-    slug: ''
-  col_2:
-    image: "/uploads/2021/10/12/0-1.png"
-    headline: Attempt Quizzes
-    slug: ''
-    content: Whenever the instructor starts a new quiz, the students receive push
-      notifications on their devices. Students can respond to the quiz before the
-      timer runs out. Analysis of responses of the class and correct answer is also
-      shown to the students after the quiz ends.
-  col_3:
-    image: "/uploads/2021/10/12/0-3.png"
-    headline: Submit Feedback
-    slug: ''
-    content: Whenever the instructor starts a new feedback, the students receive push
-      notifications on their device. The students can anonymously submit their feedback
-      and the aggregate analysis of responses is only shown to the instructor.
 
 ---
