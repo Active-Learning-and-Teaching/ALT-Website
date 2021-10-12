@@ -72,20 +72,20 @@ page_sections:
   block: three-column-1
   col_1:
     image: "/uploads/2021/10/12/0-2.png"
-    content: The students can easily join courses by entering the code provided by
-      their instructor. The course page provides important announcements made by the
-      instructor. The students also get push notifications so that they don't miss
-      any important updates.
+    content: "<br><br>The students can easily join courses by entering the code provided
+      by their instructor. The course page provides important announcements made by
+      the instructor. The students also get push notifications so that they don't
+      miss any important updates."
     headline: Check Announcements
     slug: ''
   col_2:
     image: "/uploads/2021/10/12/0-1.png"
     headline: Attempt Quizzes
     slug: ''
-    content: Whenever the instructor starts a new quiz, the students receive push
-      notifications on their devices. Students can respond to the quiz before the
-      timer runs out. Analysis of responses of the class and correct answer is also
-      shown to the students after the quiz ends.
+    content: "<br><br>Whenever the instructor starts a new quiz, the students receive
+      push notifications on their devices. Students can respond to the quiz before
+      the timer runs out. Analysis of responses of the class and correct answer is
+      also shown to the students after the quiz ends."
   col_3:
     image: "/uploads/2021/10/12/0-3.png"
     headline: Submit Feedback
