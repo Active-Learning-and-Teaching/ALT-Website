@@ -67,6 +67,7 @@ page_sections:
       well is the audience grasping key concepts.
     slug: ''
     image: "/uploads/2021/10/10/4.png"
+  title: Instructor Interface
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -92,6 +93,7 @@ page_sections:
     content: Whenever the instructor starts a new feedback, the students receive push
       notifications on their device. The students can anonymously submit their feedback
       and the aggregate analysis of responses is only shown to the instructor.
+  title: ''
 - template: 1-column-text
   block: one-column-1
   slug: ''

@@ -7,6 +7,11 @@ fields:
   label: block
   name: block
   default: three-column-1
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
 - type: field_group
   name: col_1
   label: Column 1
