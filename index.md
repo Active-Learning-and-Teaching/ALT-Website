@@ -107,10 +107,13 @@ page_sections:
     headline: Check Announcements
     slug: ''
   col_2:
-    image: ''
-    headline: ''
+    image: "/uploads/2021/10/12/0-1.png"
+    headline: Attempt Quizzes
     slug: ''
-    content: ''
+    content: Whenever the instructor starts a new quiz, the students receive push
+      notifications on their devices. Students can respond to the quiz before the
+      timer runs out. Analysis of responses of the class and correct answer is also
+      shown to the students after the quiz ends.
   col_3:
     image: ''
     headline: ''
