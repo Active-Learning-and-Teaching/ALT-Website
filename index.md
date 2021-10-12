@@ -90,9 +90,10 @@ page_sections:
     image: "/uploads/2021/10/12/0-3.png"
     headline: Submit Feedback
     slug: ''
-    content: Whenever the instructor starts a new feedback, the students receive push
-      notifications on their device. The students can anonymously submit their feedback
-      and the aggregate analysis of responses is only shown to the instructor.
+    content: "<br><br>Whenever the instructor starts a new feedback, the students
+      receive push notifications on their devices. The students can anonymously submit
+      their feedback and the aggregate analysis of responses is only shown to the
+      instructor."
   title: Student Interface
 - template: 1-column-text
   block: one-column-1
