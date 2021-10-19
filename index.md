@@ -11,6 +11,8 @@ page_sections:
     link_text: Tutorial
   - link: https://github.com/Active-Learning-and-Teaching/ALT/
     link_text: GitHub
+  - link: https://forms.gle/ps3mpoJ9QqVof8m47
+    link_text: Report Issue
 - template: hero-banner-w-image
   block: hero-2
   slug: features
