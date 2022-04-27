@@ -35,15 +35,15 @@ page_sections:
   block: three-column-1
   col_1:
     content: <br><br>An Instructor can easily create a course by providing the course
-      name and a unique invite code is generated for the course that can be shared
-      with the students. The dashboard shows the ongoing courses of the instructor.
-      The instructor can post announcements <span class="il">and</span> manage students
+      name. A unique invite code is generated for the course that can be shared with
+      the students. The dashboard shows the ongoing courses of the instructor. The
+      instructor can post announcements <span class="il">and</span> manage students
       and can also specify email addresses for receiving responses to the quizzes
       and feedback. The app does not require any IT infrastructure support and thus
       can be used in any teacher-class setting (Schools, Colleges, Workshops).
     headline: 'Create & Manage Courses '
     slug: ''
-    image: "/uploads/2021/10/10/2.png"
+    image: "/uploads/2022/04/27/2.png"
   col_2:
     content: <br><br>Short in-class quizzes are the key to Active Learning in lectures.
       An instructor can host in-class quizzes instantly to test the understanding
