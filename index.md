@@ -81,7 +81,7 @@ page_sections:
     headline: Check Announcements
     slug: ''
   col_2:
-    image: "/uploads/2021/10/12/0-1.png"
+    image: "/uploads/2022/04/27/6.png"
     headline: Attempt Quizzes
     slug: ''
     content: "<br><br>Whenever the instructor starts a new quiz, the students receive
