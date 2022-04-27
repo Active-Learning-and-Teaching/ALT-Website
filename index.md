@@ -62,13 +62,13 @@ page_sections:
     content: <br><br>The instructor can conduct instant student feedbacks during the
       lecture. The feedback question is presented in class as part of the presentation
       <span class="il">and</span> the students can give their anonymous feedback on
-      the app. The instructor can choose the feedback type as Color-Scale or a Likert
-      Scale and can set the duration of the feedback. The anonymous student responses
-      are mailed to the instructor. A small summary of feedback is also shown in the
-      app. This can be used to improve the learning environment and understand how
-      well is the audience grasping key concepts.
+      the app. The instructor can choose the feedback type as Color-Scale, Likert
+      Scale or Minute Paper and can set the duration of the feedback. The anonymous
+      student responses are mailed to the instructor. A small summary of feedback
+      is also shown in the app. This can be used to improve the learning environment
+      and understand how well is the audience grasping key concepts.
     slug: ''
-    image: "/uploads/2021/10/10/4.png"
+    image: "/uploads/2022/04/27/4.png"
   title: Instructor Interface
 - template: 3-column-text
   block: three-column-1
