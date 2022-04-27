@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home
-date: 
+date: 2022-04-27 00:00:00 +0530
 page_sections:
 - template: navigation-header
   block: header-1
