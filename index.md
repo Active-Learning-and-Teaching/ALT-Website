@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2022/04/27/1.png"
     alt_text: ALT Home
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/10/09/untitled-design-3.png"
 - template: full-width-media-element
   block: media-1
   slug: ''
