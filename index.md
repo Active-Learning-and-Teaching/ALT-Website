@@ -89,7 +89,7 @@ page_sections:
       the timer runs out. Analysis of responses of the class and correct answer is
       also shown to the students after the quiz ends."
   col_3:
-    image: "/uploads/2021/10/12/0-3.png"
+    image: "/uploads/2022/04/27/7.png"
     headline: Submit Feedback
     slug: ''
     content: "<br><br>Whenever the instructor starts a new feedback, the students
