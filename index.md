@@ -56,7 +56,7 @@ page_sections:
       by the instructor.
     headline: Host Quizzes
     slug: ''
-    image: "/uploads/2021/10/10/3.png"
+    image: "/uploads/2022/04/27/3.png"
   col_3:
     headline: Take Instant Feedback
     content: <br><br>The instructor can conduct instant student feedbacks during the
