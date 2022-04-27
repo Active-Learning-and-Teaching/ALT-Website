@@ -112,16 +112,17 @@ page_sections:
     during lectures. The quizzes and feedback questions are given to students as part
     of the lecture without breaking the flow of the class. The students can respond
     on the app and the results are summarised by the app for the faculty to understand
-    the state of class and engagement.
+    the state of class and engagement.<br><br>The app aims to promote data privacy
+    and security by keeping minimal information. The instructor does not have to enter
+    the questions of quizzes and feedbacks on the app. The student responses are removed
+    from the backend after being processed for summarization. A copy of the responses
+    is mailed to the instructor as CSV for grading. At the end of the course, the
+    student/instructor can delete their account along with all the data associated
+    with their account.
 - template: 1-column-text
   block: one-column-1
-  headline: Built with Privacy in Mind
-  content: The app aims to promote data privacy and security by keeping minimal information.
-    The instructor does not have to enter the questions of quizzes and feedbacks on
-    the app. The student responses are removed from the backend after being processed
-    for summarization. A copy of the responses is mailed to the instructor as CSV
-    for grading. At the end of the course, the student/instructor can delete their
-    account along with all the data associated with their account.
+  headline: ALT - Research
+  content: Coming Soon!
   slug: ''
 - template: simple-footer
   block: footer-1
