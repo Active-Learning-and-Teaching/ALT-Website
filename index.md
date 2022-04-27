@@ -26,11 +26,6 @@ page_sections:
     image: "/uploads/2022/04/27/1.png"
     alt_text: ALT Home
   background_image: "/uploads/2021/10/09/untitled-design-3.png"
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: "/uploads/2021/10/11/alt.m4v"
-  caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
