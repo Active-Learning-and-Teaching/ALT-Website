@@ -73,7 +73,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    image: "/uploads/2021/10/12/0-2.png"
+    image: "/uploads/2022/04/27/5.png"
     content: "<br><br>The students can easily join courses by entering the code provided
       by their instructor. The course page provides important announcements made by
       the instructor. The students also get push notifications so that they don't
